@@ -90,18 +90,6 @@ graph LR
 - Weather pattern analysis
 - Personalized recommendations
 
-## 🎨 Screenshots
-
-<div align="center">
-
-| Home Screen | Snake Detection | Weather Forecast | AI Chatbot |
-|------------|----------------|------------------|------------|
-| ![Home](screenshots/home.png) | ![Detection](screenshots/detection.png) | ![Weather](screenshots/weather.png) | ![Chat](screenshots/chat.png) |
-
-*Coming Soon: Add actual screenshots after deployment*
-
-</div>
-
 ## 🏗️ Technology Stack
 
 ### Frontend (Mobile App)
@@ -282,7 +270,7 @@ We welcome contributions! Here's how you can help:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
 ## 👥 Authors
 
@@ -295,12 +283,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Google** for Gemini AI and Firebase services
 - **Flutter Team** for the amazing framework
 - All contributors and testers
-
-## 📞 Support & Contact
-
-- **Issues:** [GitHub Issues](https://github.com/Ghost24into7/SafeFarm/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/Ghost24into7/SafeFarm/discussions)
-- **Email:** safefarm.support@example.com *(Update with actual email)*
 
 ## ⭐ Star History
 
